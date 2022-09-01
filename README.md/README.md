@@ -4,4 +4,4 @@ NPM     : 2106751991
 
 Kelas   : A
 
-Hobi    : Rebahan
+Hobi    : Tidur
